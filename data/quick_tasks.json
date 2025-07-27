@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "text": "complete the ai project",
+    "created": "2025-07-27T00:48:36.829111",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "text": "buy groceries",
+    "created": "2025-07-27T00:48:37.829493",
+    "completed": false
+  }
+]
